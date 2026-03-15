@@ -1,3 +1,8 @@
+# todo:
+
+deconstruct the roottest.html to get the websites, and then recreate it.
+
+
 # Duck Math
 This is a fun website that I hope everyone can enjoy. Thanks, everyone for using it, your support means everything. I know I coded this very badly, it's my first time using front end, I should have used JS templates and a library such as React.
 - Site Link: [duckmath.org](https://duckmath.org/)
